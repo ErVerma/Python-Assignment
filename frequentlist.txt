@@ -1,0 +1,61 @@
+Most Frequent Items Bought
+eggs 
+spaghetti 
+milk 
+tea 
+cake 
+water 
+fries 
+chocolate 
+oil 
+cheese Most Frequent Items Bought
+chocolate 
+water 
+cake 
+tea 
+spaghetti 
+eggs 
+fries 
+oil 
+cheese 
+milk Most Frequent Items Bought
+cheese 
+milk 
+chocolate 
+tea 
+water 
+cake 
+eggs 
+fries 
+spaghetti 
+oil Most Frequent Items Bought
+spaghetti 
+cake 
+chocolate 
+oil 
+eggs 
+fries 
+milk 
+cheese 
+water 
+tea Most Frequent Items Bought
+oil 
+tea 
+water 
+cake 
+fries 
+milk 
+cheese 
+spaghetti 
+eggs 
+chocolate Most Frequent Items Bought
+chocolate 
+oil 
+fries 
+milk 
+eggs 
+spaghetti 
+tea 
+cake 
+cheese 
+water 
